@@ -28,3 +28,36 @@ It leverages:
 
 A dataset containing 732 social media posts with fields like:
 `Text`, `Sentiment`, `Timestamp`, `Platform`, `Hashtags`, `Retweets`, `Likes`, `Country`, etc.
+
+# Sentiment Analysis Project
+
+📈 **Dashboards**
+
+Here are the interactive dashboards providing insights into the sentiment analysis:
+
+📌 **Dashboard 1: User Behavior & Sentiment Overview**
+This dashboard offers a high-level view of user behavior and sentiment distribution.
+- Top Hashtags
+- Sentiment by Platform
+- Sentiment by Country
+
+📌 **Dashboard 2: Time & Engagement Insights**
+This dashboard delves into how sentiment varies over time and its relationship with user engagement.
+- Sentiment Over Hour of the Day
+- Engagement by Sentiment
+- Sentiment Distribution
+
+🧰 **Tools Used**
+
+* **Python:**
+    * Pandas for data manipulation and analysis.
+    * TextBlob for sentiment scoring.
+* **Jupyter Notebook / Google Colab:** Used for data preprocessing and initial analysis.
+* **Tableau Public:** Used to create the interactive and shareable dashboards.
+
+📬 **Contact**
+
+Made with 💻 by AFIGA BEGUM
+
+📩 LinkedIn: www.linkedin.com/in/afigabegum
+📩 Email: afiga97@gmail.com
