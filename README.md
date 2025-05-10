@@ -29,6 +29,22 @@ It leverages:
 A dataset containing 732 social media posts with fields like:
 `Text`, `Sentiment`, `Timestamp`, `Platform`, `Hashtags`, `Retweets`, `Likes`, `Country`, etc.
 
+## Data Analysis Visualizations
+
+Here are some visualizations of the data:
+
+![Top 10 Most Popular Hashtags on Twitter](IMG_20250510_125517.jpg)
+
+![Sentiment by Country Map](IMG_20250510_125530.jpg)
+
+![Sentiment by Platform (Facebook, Instagram, Twitter)](IMG_20250510_125558.jpg)
+
+![Sentiment Over Hours of the Day](IMG_20250510_125613.jpg)
+
+![Engagement by Sentiment (Pie Chart)](IMG_20250510_125624.jpg)
+
+![Sentiment Distribution Bar Chart](IMG_20250510_125634.jpg)
+
 # Sentiment Analysis Project
 
 📈 **Dashboards**
